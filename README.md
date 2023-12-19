@@ -1,7 +1,7 @@
 ### Hello, I'm Michael Patrick 👋
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React JS and Typescript
+- 🌱 I’m currently learning React JS, Vue.js and Typescript
 
 <div>
   <a></a>
